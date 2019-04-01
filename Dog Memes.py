@@ -15,7 +15,7 @@ import sys
 
 #endregion
 
-InstagramAPI = InstagramAPI("deakin232@gmail.com", "Itwbost5!")
+InstagramAPI = InstagramAPI("deakin232@gmail.com", "")
 InstagramAPI.login()  # login
 while True:
     #region redditapi
